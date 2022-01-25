@@ -1,0 +1,51 @@
+body{
+    font-family: monospace;
+    
+}
+
+h1 {
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    font-size: 32px;
+}
+
+h2 {
+    color: blueviolet;
+    text-align: center;
+    font-size: 26px;
+}
+
+th {
+    color: black;
+    font-weight: bold;
+    background-color: #6CF5A7;
+    font-size: 16px;
+}
+
+.code {
+    background-color: beige;
+    display: block;
+   
+}
+table {
+    border: 2px solid darkorchid;
+    width: 750px;
+    margin: 0 auto;
+}
+
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+tr{
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+td {
+    font-size: 16px;
+}
